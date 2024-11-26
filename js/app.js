@@ -12,6 +12,8 @@ function limpar(){
 
 
 //adição de produtos na lista
+
+//celular
 let numeroCelular = 5;
 let produtoCarrinho = document.getElementById('lista-produtos');
 console.log(`print lista produtos:${produtoCarrinho.textContent}`/*.replace('1', numeroCelular)*/);
